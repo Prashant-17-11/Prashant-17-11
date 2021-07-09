@@ -23,14 +23,13 @@ In my free time I also like to spend time with nature. Watching the birds return
 
 Find me HERE:  
 
-<a href="https://www.linkedin.com/in/prashant-singh-8a112b206/">LinkedIn</a>
-<a href="https://www.codechef.com/users/prashant_17_11">CodeChef</a>
-<a href="https://codeforces.com/profile/Prashant_17_11">CodeForces</a>
-<a href="https://www.hackerrank.com/prashant_17_11">HackerRank</a>
-<a href="https://leetcode.com/Prashant_17_11">LeetCode</a>
-<a href="https://github.com/Prashant-17-11">GitHub</a>
-<a href="https://codepen.io/prashant-17-11">CodePen</a>
-<a href="https://www.instagram.com/Prashant_17_11">Instagram</a>
+<a href="https://www.linkedin.com/in/prashant-singh-8a112b206/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" widht="70px" height="70px"></a>
+<a href="https://www.codechef.com/users/prashant_17_11">CodeChef</a> 
+<a href="https://codeforces.com/profile/Prashant_17_11">CodeForces</a> 
+<a href="https://www.hackerrank.com/prashant_17_11">HackerRank</a> 
+<a href="https://leetcode.com/Prashant_17_11">LeetCode</a> 
+<a href="https://codepen.io/prashant-17-11">CodePen</a> 
+<a href="https://www.instagram.com/Prashant_17_11"><img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" width="70" height="70px"></a> 
 </p>
 
 <h3> Skills: C, C++, HTML, CSS, JS</h3>
