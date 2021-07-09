@@ -31,12 +31,3 @@ Find me HERE:
 <a href="https://codepen.io/prashant-17-11">CodePen</a> 
 <a href="https://www.instagram.com/Prashant_17_11"><img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" width="70" height="70px"></a> 
 </p>
-
-<h3> Skills: C, C++, HTML, CSS, JS</h3>
-
-<h3> College: Rajkiya engineering College, Sonbhadra </h3> <br />
-
-<h2 align="left"> What I am Doing? </h2>
-
-<h3>📑 I'm Currently Learning Web Development</h3>
-
