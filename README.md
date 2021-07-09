@@ -9,7 +9,29 @@
 
 
 
-<p align="center"> I am an enthusiastic learner and a passionate coder, with an interest in cybersecurity. Currently I am pursuing a B.Tech. degree in Computer Science trade from Rajkiya Engineering College Sonbhadra. I am just a beginner learning C++ and basic fundamentals of programming and aim to master all the concepts there are to learn. I like participating in coding competitions as they challenge me to learn more every time I come across a new problem. In my free time I also like to spend time with nature and love watching the sky paint in wonderful colors as the sun sets everyday. </p>
+<p align="left">First year CSE student ready to explore the vast domains of programming from a simple Hello World !! to the complex applications we see all around us.
+
+I am an enthusiastic learner and a passionate coder, with a learn it all attitude.
+Currently I am pursuing a B. Tech. degree in Computer Science trade from Rajkiya Engineering College, Sonbhadra.
+
+I am a learner with (intermediate:) C, C++, HTML, CSS, (beginner:) JS, SQL and PHP under my skillset. Currently I am learning web development and sharpening my command on programming skills with expanding my DSA concepts base.
+I strive to make every day productive and take it as an opportunity to learn something daily.
+
+I like participating in coding competitions for the adrenaline rush to solve a given set of problems in a time-frame, breaking down the concepts behind the problems, figuring out a solution and not just a solution but an optimized approach to solution (cause we all know no one likes getting TLE) is fun and an a wonderful learning experience with varieties of problem and solutions.
+
+In my free time I also like to spend time with nature. Watching the birds returning back to their nests with the sun setting down, leaving behind a beautifully painted canvas on the sky and a cup of hot coffee is just the way I love my evenings.
+
+Find me HERE:  
+
+<a href="https://www.linkedin.com/in/prashant-singh-8a112b206/">LinkedIn</a>
+<a href="https://www.codechef.com/users/prashant_17_11">CodeChef</a>
+<a href="https://codeforces.com/profile/Prashant_17_11">CodeForces</a>
+<a href="https://www.hackerrank.com/prashant_17_11">HackerRank</a>
+<a href="https://leetcode.com/Prashant_17_11">LeetCode</a>
+<a href="https://github.com/Prashant-17-11">GitHub</a>
+<a href="https://codepen.io/prashant-17-11">CodePen</a>
+<a href="https://www.instagram.com/Prashant_17_11">Instagram</a>
+</p>
 
 <h3> Skills: C, C++, HTML, CSS, JS</h3>
 
