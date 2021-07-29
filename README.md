@@ -32,4 +32,3 @@ Find me HERE:
 <a href="https://codepen.io/prashant-17-11"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/codepen.svg" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/Prashant_17_11"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/instagram.svg" height="30" width="40" /></a> 
 </p>
-![](https://hit.yhype.me/github/profile?user_id=78467291)
