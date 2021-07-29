@@ -20,7 +20,8 @@ I strive to make every day productive and take it as an opportunity to learn som
 I like participating in coding competitions for the adrenaline rush to solve a given set of problems in a time-frame, breaking down the concepts behind the problems, figuring out a solution and not just a solution but an optimized approach to solution (cause we all know no one likes getting TLE) is fun and an a wonderful learning experience with varieties of problem and solutions.
 
 In my free time I also like to spend time with nature. Watching the birds returning back to their nests with the sun setting down, leaving behind a beautifully painted canvas on the sky and a cup of hot coffee is just the way I love my evenings.
-
+</p>
+<p align="left">
 Find me HERE:  
 
 <a href="https://www.linkedin.com/in/prashant-singh-8a112b206/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" height="30" width="40" /></a>
@@ -31,3 +32,4 @@ Find me HERE:
 <a href="https://codepen.io/prashant-17-11"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/codepen.svg" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/Prashant_17_11"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/instagram.svg" height="30" width="40" /></a> 
 </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Prashant-17-11&label=Profile%20views&color=0e75b6&style=flat" /></p>
