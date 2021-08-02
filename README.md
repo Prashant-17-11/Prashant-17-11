@@ -24,7 +24,7 @@ In my free time I also like to spend time with nature. Watching the birds return
 <p align="left">
 Find me HERE:  
 
-<a href="https://www.linkedin.com/in/prashant-singh-8a112b206/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prashant17-11/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prashant_17_11"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/codechef.svg" height="30" width="40" /></a> 
 <a href="https://codeforces.com/profile/Prashant_17_11"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/codeforces.svg" height="30" width="40" /></a> 
 <a href="https://www.hackerrank.com/prashant_17_11"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/hackerrank.svg" height="30" width="40" /></a> 
