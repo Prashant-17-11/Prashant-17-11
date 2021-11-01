@@ -9,7 +9,7 @@
 
 
 
-<p align="left">First year CSE student ready to explore the vast domains of programming from a simple Hello World !! to the complex applications we see all around us.
+<p align="left">Second year CSE student ready to explore the vast domains of programming from a simple Hello World !! to the complex applications we see all around us.
 
 I am an enthusiastic learner and a passionate coder, with a learn it all attitude.
 Currently I am pursuing a B. Tech. degree in Computer Science trade from Rajkiya Engineering College, Sonbhadra.
