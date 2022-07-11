@@ -2,22 +2,24 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-<h1 align="center">Hi there visitor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">!!, Myself Prashant Singh </h1>
+<h1 align="center">Hi there visitor 👋!!, Myself Prashant Singh </h1>
 
 <h3 align="center"> Programming Enthusiast 💻 Developer 👩‍💻 </h3>
 
 
 
 
-<p align="left">Second year CSE student ready to explore the vast domains of programming from a simple Hello World !! to the complex applications we see all around us.
+<p align="left">Second year CSE student exploring the vast domains of programming from a simple Hello World !! to the complex applications we see all around us.
 
-I am an enthusiastic learner and a passionate coder, with a learn it all attitude.
-Currently I am pursuing a B. Tech. degree in Computer Science trade from Rajkiya Engineering College, Sonbhadra.
+I am an enthusiastic learner developing logic building and web development skills. I am also exploring Machine Learning and AI development.
 
-I am a learner with (intermediate:) C, C++, HTML, CSS, (beginner:) JS, SQL and PHP under my skillset. Currently I am learning web development and sharpening my command on programming skills with expanding my DSA concepts base.
-I strive to make every day productive and take it as an opportunity to learn something daily.
+Currently I am pursuing B. Tech. degree in Computer Science from Rajkiya Engineering College, Sonbhadra.
 
-I like participating in coding competitions for the adrenaline rush to solve a given set of problems in a time-frame, breaking down the concepts behind the problems, figuring out a solution and not just a solution but an optimized approach to solution (cause we all know no one likes getting TLE) is fun and an a wonderful learning experience with varieties of problem and solutions.
+I have knowledge about : C, C++, HTML, CSS, JS, ReactJS, Python.
+
+I also like participating in coding contests on various platforms like codechef, leetcode and codeforces in order to develop my logic building and problem solving skills.
+
+Currently I am learning ReactJS and also exploring the domain of Data Science.
 
 In my free time I also like to spend time with nature. Watching the birds returning back to their nests with the sun setting down, leaving behind a beautifully painted canvas on the sky and a cup of hot coffee is just the way I love my evenings.
 </p>
