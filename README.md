@@ -9,19 +9,14 @@
 
 
 
-<p align="left">Second year CSE student exploring the vast domains of programming from a simple Hello World !! to the complex applications we see all around us.
-
-I am an enthusiastic learner developing logic building and web development skills. I am also exploring Machine Learning and AI development.
+<p align="left">I am a Frontend React JS Web Developer with experience in Responsive Frontend website designing with an aim to give user friendly experience with no restrictions to the user's device. I have a competitive spirit and a optimistic approach to life. I am driven to provide better results with more and more experience I gain. 
+Looking for any opportunity to showcase my skills.
 
 Currently I am pursuing B. Tech. degree in Computer Science from Rajkiya Engineering College, Sonbhadra.
 
-I have knowledge about : C, C++, HTML, CSS, JS, ReactJS, Python.
+I have knowledge about : C, C++, HTML, CSS, JS, ReactJS, Bootstrap, Python, Git, Object-Oriented Programming.
 
 I also like participating in coding contests on various platforms like codechef, leetcode and codeforces in order to develop my logic building and problem solving skills.
-
-Currently I am learning ReactJS and also exploring the domain of Data Science.
-
-In my free time I also like to spend time with nature. Watching the birds returning back to their nests with the sun setting down, leaving behind a beautifully painted canvas on the sky and a cup of hot coffee is just the way I love my evenings.
 </p>
 <p align="left">
 Find me HERE:  
