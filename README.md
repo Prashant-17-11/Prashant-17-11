@@ -9,14 +9,15 @@
 
 
 
-<p align="left">I am a Frontend React JS Web Developer with experience in Responsive Frontend website designing with an aim to give user friendly experience with no restrictions to the user's device. I have a competitive spirit and a optimistic approach to life. I am driven to provide better results with more and more experience I gain. 
+<p align="left">I am a React JS Web Developer with experience in Responsive website designing aiming to give user friendly experience .
+I have a competitive spirit and a optimistic approach to life. I am driven to provide better results with more and more experience I gain. 
 Looking for any opportunity to showcase my skills.
 
 Currently I am pursuing B. Tech. degree in Computer Science from Rajkiya Engineering College, Sonbhadra.
 
-I have knowledge about : C, C++, HTML, CSS, JS, ReactJS, Bootstrap, Python, Git, Object-Oriented Programming.
+I have knowledge about : C, C++, HTML, CSS, JS, ReactJS, Node JS, Bootstrap, Python, Git, Object-Oriented Programming.
 
-I also like participating in coding contests on various platforms like codechef, leetcode and codeforces in order to develop my logic building and problem solving skills.
+I also like participating in coding contests on various platforms like codechef and leetcode in order to develop my logic building and problem solving skills.
 </p>
 <p align="left">
 Find me HERE:  
