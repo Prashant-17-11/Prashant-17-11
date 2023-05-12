@@ -4,19 +4,28 @@
 
 <h1 align="center">Hi there visitor 👋!!, Myself Prashant Singh </h1>
 
-<h3 align="center"> Programming Enthusiast 💻 Developer 👩‍💻 </h3>
+<h3 align="center"> Programming Enthusiast 💻 Full Stack Web Developer 👩‍💻 </h3>
 
 
 
 
-<p align="left">I am a React JS Web Developer with experience in Responsive website designing aiming to give user friendly experience .
-I have a competitive spirit and a optimistic approach to life. I am driven to provide better results with more and more experience I gain. 
+<p align="left">I am a MERN Stack Web Developer with experience in building end-to-end scalable websites/applications with an interactive UI/UX and robust Backends supporting them with REST APIs.
+
+I have a enthusiastic spirit and a optimistic approach to life. I am driven to provide better results with more and more experience I gain. 
+
 Looking for any opportunity to showcase my skills.
 
-Currently I am pursuing B. Tech. degree in Computer Science from Rajkiya Engineering College, Sonbhadra.
+Currently I am pursuing B. Tech. degree in Computer Science & Engineering from Rajkiya Engineering College, Sonbhadra.
 
-I have knowledge about : C, C++, HTML, CSS, JS, ReactJS, Node JS, Bootstrap, Python, Git, Object-Oriented Programming.
-
+I have knowledge about : 
+  <ul>
+    <li> Programming Languages: <b>C, C++, JS, Python</b></li>
+    <li> Web Structuring Languages: <b>HTML, CSS, REST API's</b></li>
+    <li> Frameworks: <b>ReactJS, Bootstrap, Material UI, NodeJS, Express, Mongoose, JWT Authentication, Redux, Axios, Fetch</b></li>
+    <li> API Testing Tools: <b>Postman</b></li>
+    <li> Database: <b>MongoDB, Firebase</b></li>
+    <li> Version Control Interfaces: <b>Git, Github</b></li>
+</ul>
 I also like participating in coding contests on various platforms like codechef and leetcode in order to develop my logic building and problem solving skills.
 </p>
 <p align="left">
