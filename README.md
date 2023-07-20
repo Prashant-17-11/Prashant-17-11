@@ -64,6 +64,7 @@ Connect with me on other platforms I actively engage on:
 ![Gmail](https://img.shields.io/badge/Email-prashantsingh.999000@gmail.com-red?style=for-the-badge&logo=gmail)
 
 <!-- Add the GitHub Readme Stats badge here -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashant-17-11&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashant-17-11&show_icons=true&count_private=true&hide=prs,issues&theme=radical&include_all_commits=true)
+
 
 </div>
