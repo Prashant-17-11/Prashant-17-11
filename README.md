@@ -1,60 +1,76 @@
 <!--**Prashant-17-11/Prashant-17-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+![Header](./assets/banner.png)
+
 # Hi there 👋, I'm Prashant Singh
 
-
-I'm a passionate Full Stack Developer with over 2 years of experience specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. I love building end-to-end scalable websites and applications with an interactive UI/UX and robust backends supported by REST APIs.
+SDE @AegisCovenant | Software Engineer | Full Stack Web Developer | React, TypeScript, AWS | Building Scalable & Secure Web Experiences
 
 ## About Me
 
-- 🌐 Currently pursuing my B.Tech. degree in Computer Science & Engineering from Rajkiya Engineering College, Sonbhadra.
-- 🚀 With a strong emphasis on problem-solving, I enjoy tackling complex challenges and delivering high-quality results.
-- 💡 To continuously enhance my logic building and problem-solving skills, I actively participate in coding contests on platforms like CodeChef, LeetCode, HackerRank, and CodeForces.
+🌐 I'm a software developer focused on building clean, user-friendly, and performance-driven web applications. Currently working at AegisCovenant, I contribute to full-cycle product development—owning features, maintaining production systems, and collaborating across teams to deliver reliable and scalable solutions.
+🚀 I thrive in fast-paced environments where problem-solving, adaptability, and continuous learning are key. From implementing access control systems to modernizing frontend stacks, I enjoy tackling challenges that improve both product and developer experience.
+💡 Always curious, always learning—I'm driven by the desire to grow, share knowledge, and build impactful technology alongside passionate teams.
 
-## Tech Stack
+## 🛠 Tech Stack
 
-As a Full Stack web developer, I excel in crafting efficient and user-friendly solutions by leveraging my expertise in following frameworks and tools:
+As a frontend-focused Full Stack Developer, I specialize in building performant, scalable, and accessible web applications using modern tools and frameworks:
 
 <div align="center">
-  
-![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-blue)
-![NextJS](https://img.shields.io/badge/Frontend-NextJS-lightgrey)
-![Redux](https://img.shields.io/badge/Frontend-Redux-orange)
+
+### ⚛️ Frontend
+
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-lightgrey)
 ![TypeScript](https://img.shields.io/badge/Frontend-TypeScript-blueviolet)
-![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
-![CSS](https://img.shields.io/badge/Frontend-CSS-yellowgreen)
 ![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow)
+![Redux](https://img.shields.io/badge/Frontend-Redux-orange)
+![Vite](https://img.shields.io/badge/Frontend-Vite-646cff)
+![Tailwind CSS](https://img.shields.io/badge/Frontend-Tailwind_CSS-38bdf8)
 ![Material UI](https://img.shields.io/badge/Frontend-Material_UI-teal)
 ![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-purple)
-![Axios](https://img.shields.io/badge/Frontend-Axios-green)
-![NodeJS](https://img.shields.io/badge/Backend-NodeJS-brightgreen)
-![Express](https://img.shields.io/badge/Backend-Express-red)
-![Mongoose](https://img.shields.io/badge/Backend-Mongoose-blueviolet)
-![JWT Authentication](https://img.shields.io/badge/Backend-JWT_Authentication-yellowgreen)
-![REST API](https://img.shields.io/badge/Backend-REST_APIs-orange)
-![Postman](https://img.shields.io/badge/API_Testing-Postman-orange)
-![MongoDB](https://img.shields.io/badge/Databases-MongoDB-green)
-![Firebase](https://img.shields.io/badge/Databases-Firebase-yellow)
-![SQL](https://img.shields.io/badge/Databases-SQL-lightgrey)
+![Figma](https://img.shields.io/badge/Design-Figma-f24e1e)
+
+### 🧠 Backend
+
+![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
+![Express](https://img.shields.io/badge/Backend-Express-black)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![Firebase](https://img.shields.io/badge/Database-Firebase-yellow)
+![REST APIs](https://img.shields.io/badge/Backend-REST_APIs-orange)
+![WebSockets](https://img.shields.io/badge/RealTime-WebSockets-blueviolet)
+
+### ☁️ DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+![Cognito](https://img.shields.io/badge/AWS-Cognito-9cf)
+![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-4051b5)
+![S3](https://img.shields.io/badge/AWS-S3-ff9900)
+![Lambda](https://img.shields.io/badge/AWS-Lambda-f29111)
+![API Gateway](https://img.shields.io/badge/AWS-API_Gateway-ec7211)
+![IAM](https://img.shields.io/badge/AWS-IAM-0073bb)
+![CodeCommit](https://img.shields.io/badge/AWS-CodeCommit-blueviolet)
+
+### 🧰 Tools & Practices
+
 ![Git](https://img.shields.io/badge/Version_Control-Git-orange)
-![GitHub](https://img.shields.io/badge/Version_Control-GitHub-lightgrey)
-![GitLab](https://img.shields.io/badge/Version_Control-GitLab-blue)
-![C/C++](https://img.shields.io/badge/Programming_Languages-C%2FC%2B%2B-blue)
-![Python](https://img.shields.io/badge/Programming_Languages-Python-yellow)
+![GitHub](https://img.shields.io/badge/Version_Control-GitHub-black)
+![CI/CD](https://img.shields.io/badge/DevOps-CI/CD-blue)
+![Postman](https://img.shields.io/badge/API_Testing-Postman-orange)
+![TDD](https://img.shields.io/badge/Testing-TDD-lightgrey)
 
 </div>
 
-Also proficient with muliple React libraries and tools which help me build dynamic and efficient products.
-
 ## Let's Connect
 
-If you're seeking a dedicated Full Stack web developer with a strong foundation in the MERN stack and expertise in building scalable applications, I'm ready to contribute to your organization's success. I'm open to any opportunity that allows me to showcase my skills and grow as a professional.
+I'm a frontend-forward Full Stack Developer passionate about designing clean, performant, and intuitive UIs. Whether you're building a product, scaling a design system, or solving complex UX problems, I bring strong frontend architecture experience with modern React ecosystems (React + TypeScript + Vite + TailwindCSS) and real-world deployment with AWS.
 
-Connect with me on other platforms I actively engage on:
+If you're looking to collaborate on scalable frontend systems, want help with a project, or have a frontend-focused role in your team—I'd love to connect!
 
 <!-- Use icons instead of regular links -->
 <div align="center">
-  
+
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15cjQhvw49kFJJ6hoNkBoHIjMs1hXY0k8/view?usp=sharing)  
 [![GitHub](https://img.shields.io/badge/GitHub-Prashant_17_11-black?style=for-the-badge&logo=github)](https://github.com/Prashant-17-11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_17_11-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashant17-11/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-prashant__17__11-red?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/prashant_17_11)
@@ -64,7 +80,15 @@ Connect with me on other platforms I actively engage on:
 ![Gmail](https://img.shields.io/badge/Email-prashantsingh.999000@gmail.com-red?style=for-the-badge&logo=gmail)
 
 <!-- Add the GitHub Readme Stats badge here -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashant-17-11&show_icons=true&count_private=true&hide=prs,issues&theme=radical&include_all_commits=true)
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashant-17-11&show_icons=true&theme=radical&include_all_commits=true&hide=prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-17-11&layout=compact&theme=radical)
+
+</div>
 
 </div>
