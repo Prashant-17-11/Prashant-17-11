@@ -9,7 +9,9 @@ SDE @AegisCovenant | Software Engineer | Full Stack Web Developer | React, TypeS
 ## About Me
 
 🌐 I'm a software developer focused on building clean, user-friendly, and performance-driven web applications. Currently working at AegisCovenant, I contribute to full-cycle product development—owning features, maintaining production systems, and collaborating across teams to deliver reliable and scalable solutions.
+
 🚀 I thrive in fast-paced environments where problem-solving, adaptability, and continuous learning are key. From implementing access control systems to modernizing frontend stacks, I enjoy tackling challenges that improve both product and developer experience.
+
 💡 Always curious, always learning—I'm driven by the desire to grow, share knowledge, and build impactful technology alongside passionate teams.
 
 ## 🛠 Tech Stack
