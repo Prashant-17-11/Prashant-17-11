@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Prashant Singh
 
-SDE @AegisCovenant | Software Engineer | Full Stack Web Developer | React, TypeScript, AWS | Building Scalable & Secure Web Experiences
+SDE 1@AegisCovenant | Software Engineer | Frontend Web Developer | React, TypeScript, AWS | Building Scalable & Secure Web Experiences
 
 ## About Me
 
@@ -72,7 +72,7 @@ If you're looking to collaborate on scalable frontend systems, want help with a 
 <!-- Use icons instead of regular links -->
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15cjQhvw49kFJJ6hoNkBoHIjMs1hXY0k8/view?usp=sharing)  
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1j04kIkB3RvCI3Tmm0KvB_FQ6mZK2RUcZ/view?usp=sharing)  
 [![GitHub](https://img.shields.io/badge/GitHub-Prashant_17_11-black?style=for-the-badge&logo=github)](https://github.com/Prashant-17-11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_17_11-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashant17-11/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-prashant__17__11-red?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/prashant_17_11)
