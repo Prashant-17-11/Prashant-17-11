@@ -54,11 +54,11 @@ Most of this work sits behind company logins. My portfolio, coming soon, shows e
 
 ### How I work
 
-<img src="./assets/pin-1.svg" alt="1." width="20" height="20"> **I design the states, not just the screen.** Loading, empty, error and "you can't do this" get the same care as the happy path.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pin-1-dark.svg"><img src="./assets/pin-1-light.svg" alt="1." width="20" height="20"></picture> **I design the states, not just the screen.** Loading, empty, error and "you can't do this" get the same care as the happy path.
 
-<img src="./assets/pin-2.svg" alt="2." width="20" height="20"> **I write the decision down.** Decision records, measured before and after, including what got worse.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pin-2-dark.svg"><img src="./assets/pin-2-light.svg" alt="2." width="20" height="20"></picture> **I write the decision down.** Decision records, measured before and after, including what got worse.
 
-<img src="./assets/pin-3.svg" alt="3." width="20" height="20"> **I stay after launch.** I've worked on the same production platform since 2023: reviewing pull requests, mentoring newer engineers, and owning the frontend during incidents and releases.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pin-3-dark.svg"><img src="./assets/pin-3-light.svg" alt="3." width="20" height="20"></picture> **I stay after launch.** I've worked on the same production platform since 2023: reviewing pull requests, mentoring newer engineers, and owning the frontend during incidents and releases.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-03-dark.svg">
