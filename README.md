@@ -1,96 +1,95 @@
-<!--**Prashant-17-11/Prashant-17-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" alt="Prashant Singh, product-minded frontend engineer" width="100%">
+</picture>
 
-![Header](./assets/banner.png)
+I'm a frontend engineer in Gurugram. For three years at AegisCovenant I've built the dashboards, policy workflows and field sales app behind an insurance platform for vehicle dealerships. A good first impression is the easy part; I care about the whole visit, so the ease lasts until people have done what they came to do.
 
-# Hi there 👋, I'm Prashant Singh
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-01-dark.svg">
+  <img src="./assets/rule-01-light.svg" alt="" width="100%">
+</picture>
 
-SDE 1@AegisCovenant | Software Engineer | Frontend Web Developer | React, TypeScript, AWS | Building Scalable & Secure Web Experiences
+### What I'm building
 
-## About Me
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-phoenix-dark.svg">
+    <img src="./assets/plate-phoenix-light.svg" alt="Fig. 1, Phoenix Force: a phone showing a field route to two clients" width="400">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-permissions-dark.svg">
+    <img src="./assets/plate-permissions-light.svg" alt="Fig. 2, Permissions: a table where one column is masked for the current role" width="400">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-dashboards-dark.svg">
+    <img src="./assets/plate-dashboards-light.svg" alt="Fig. 3, Dashboards: tiles and a bar chart with one month below zero" width="400">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-pipeline-dark.svg">
+    <img src="./assets/plate-pipeline-light.svg" alt="Fig. 4, Fast to ship: a deploy pipeline bar shrinking from about 7 minutes to under 2" width="400">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-swa-dark.svg">
+    <img src="./assets/plate-swa-light.svg" alt="Fig. 5, Swa: a phone showing a balance, two budgets and the log sheet" width="400">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-portfolio-dark.svg">
+    <img src="./assets/plate-portfolio-light.svg" alt="Fig. 6, this portfolio: a page still in construction lines" width="400">
+  </picture>
+</p>
 
-🌐 I'm a software developer focused on building clean, user-friendly, and performance-driven web applications. Currently working at AegisCovenant, I contribute to full-cycle product development—owning features, maintaining production systems, and collaborating across teams to deliver reliable and scalable solutions.
+- **Phoenix Force.** A React Native field sales app that keeps working when the network doesn't. I led it from scratch in 2026 to replace a paid tool, and the whole field team now uses it.
+- **One permission system for three products.** Roles stay a fixed set and each person's access comes from the server, down to every action. It serves two web portals and Phoenix Force.
+- **Business dashboards.** BI and finance dashboards over more than 7 lakh rows. Business development used them to find loss making regions and insurer deals, and renegotiate with the numbers.
+- **Making two portals fast to ship.** Deploy pipelines from about 7 minutes to under 2, and a production build from 101 seconds to under 7, one measured step at a time.
+- **Swa.** A personal finance app for India with no server: your data stays on your phone and in your own Google Sheet. Launching on Google Play in December 2026.
 
-🚀 I thrive in fast-paced environments where problem-solving, adaptability, and continuous learning are key. From implementing access control systems to modernizing frontend stacks, I enjoy tackling challenges that improve both product and developer experience.
+Most of this work sits behind company logins. My portfolio, coming soon, shows each project as a small working rebuild with invented data.
 
-💡 Always curious, always learning—I'm driven by the desire to grow, share knowledge, and build impactful technology alongside passionate teams.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-02-dark.svg">
+  <img src="./assets/rule-02-light.svg" alt="" width="100%">
+</picture>
 
-## 🛠 Tech Stack
+### How I work
 
-As a frontend-focused Full Stack Developer, I specialize in building performant, scalable, and accessible web applications using modern tools and frameworks:
+<img src="./assets/pin-1.svg" alt="1." width="20" height="20"> **I design the states, not just the screen.** Loading, empty, error and "you can't do this" get the same care as the happy path.
 
-<div align="center">
+<img src="./assets/pin-2.svg" alt="2." width="20" height="20"> **I write the decision down.** Decision records, measured before and after, including what got worse.
 
-### ⚛️ Frontend
+<img src="./assets/pin-3.svg" alt="3." width="20" height="20"> **I stay after launch.** I've worked on the same production platform since 2023: reviewing pull requests, mentoring newer engineers, and owning the frontend during incidents and releases.
 
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Next.js](https://img.shields.io/badge/Frontend-Next.js-lightgrey)
-![TypeScript](https://img.shields.io/badge/Frontend-TypeScript-blueviolet)
-![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow)
-![Redux](https://img.shields.io/badge/Frontend-Redux-orange)
-![Vite](https://img.shields.io/badge/Frontend-Vite-646cff)
-![Tailwind CSS](https://img.shields.io/badge/Frontend-Tailwind_CSS-38bdf8)
-![Material UI](https://img.shields.io/badge/Frontend-Material_UI-teal)
-![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-purple)
-![Figma](https://img.shields.io/badge/Design-Figma-f24e1e)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-03-dark.svg">
+  <img src="./assets/rule-03-light.svg" alt="" width="100%">
+</picture>
 
-### 🧠 Backend
+### Stack
 
-![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
-![Express](https://img.shields.io/badge/Backend-Express-black)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
-![Firebase](https://img.shields.io/badge/Database-Firebase-yellow)
-![REST APIs](https://img.shields.io/badge/Backend-REST_APIs-orange)
-![WebSockets](https://img.shields.io/badge/RealTime-WebSockets-blueviolet)
+**Every day:** React, TypeScript, Next.js, React Native with Expo, Tailwind CSS, TanStack Query and Table, Redux and Zustand, Vite
 
-### ☁️ DevOps & Cloud
+**Also:** Node.js, Express, AWS (Cognito, DynamoDB, S3, Lambda), Vitest and Jest, PostHog, Figma
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
-![Cognito](https://img.shields.io/badge/AWS-Cognito-9cf)
-![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-4051b5)
-![S3](https://img.shields.io/badge/AWS-S3-ff9900)
-![Lambda](https://img.shields.io/badge/AWS-Lambda-f29111)
-![API Gateway](https://img.shields.io/badge/AWS-API_Gateway-ec7211)
-![IAM](https://img.shields.io/badge/AWS-IAM-0073bb)
-![CodeCommit](https://img.shields.io/badge/AWS-CodeCommit-blueviolet)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-04-dark.svg">
+  <img src="./assets/rule-04-light.svg" alt="" width="100%">
+</picture>
 
-### 🧰 Tools & Practices
+### Now
 
-![Git](https://img.shields.io/badge/Version_Control-Git-orange)
-![GitHub](https://img.shields.io/badge/Version_Control-GitHub-black)
-![CI/CD](https://img.shields.io/badge/DevOps-CI/CD-blue)
-![Postman](https://img.shields.io/badge/API_Testing-Postman-orange)
-![TDD](https://img.shields.io/badge/Testing-TDD-lightgrey)
+SDE 1 at AegisCovenant, and getting Swa ready for Google Play. Next, I'm looking for a product frontend role with room to grow toward tech lead, remote or in Delhi NCR.
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-05-dark.svg">
+  <img src="./assets/rule-05-light.svg" alt="" width="100%">
+</picture>
 
-## Let's Connect
+### Contact
 
-I'm a frontend-forward Full Stack Developer passionate about designing clean, performant, and intuitive UIs. Whether you're building a product, scaling a design system, or solving complex UX problems, I bring strong frontend architecture experience with modern React ecosystems (React + TypeScript + Vite + TailwindCSS) and real-world deployment with AWS.
+Email is the best way to reach me: [prashantsingh.999000@gmail.com](mailto:prashantsingh.999000@gmail.com). You can also [connect with me on LinkedIn](https://www.linkedin.com/in/prashant17-11/) or [see my résumé](https://drive.google.com/file/d/1hq2we2n5myg1kXI79HtS2uuQC-pMtnJR/view).
 
-If you're looking to collaborate on scalable frontend systems, want help with a project, or have a frontend-focused role in your team—I'd love to connect!
-
-<!-- Use icons instead of regular links -->
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1hq2we2n5myg1kXI79HtS2uuQC-pMtnJR/view?usp=sharing)  
-[![GitHub](https://img.shields.io/badge/GitHub-Prashant_17_11-black?style=for-the-badge&logo=github)](https://github.com/Prashant-17-11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_17_11-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashant17-11/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-prashant__17__11-red?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/prashant_17_11)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Prashant_17_11-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/Prashant_17_11)
-[![HackerRank](https://img.shields.io/badge/HackerRank-prashant__17__11-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/prashant_17_11)
-[![Instagram](https://img.shields.io/badge/Instagram-prashant__17__11-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/Prashant_17_11)
-![Gmail](https://img.shields.io/badge/Email-prashantsingh.999000@gmail.com-red?style=for-the-badge&logo=gmail)
-
-<!-- Add the GitHub Readme Stats badge here -->
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashant-17-11&show_icons=true&theme=radical&include_all_commits=true&hide=prs,issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-17-11&layout=compact&theme=radical)
-
-</div>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img src="./assets/footer-light.svg" alt="Title block: sheet 00 of 01, Prashant Singh, Gurugram, India, revised November 2026, open to product roles" width="100%">
+</picture>
